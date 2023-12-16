@@ -3,7 +3,7 @@ API сервис с аутентификацией JWT token, для просм�
 
 ## Стек
 * ASP.NET Core 8.0
-* JWT Bearer
+* JWT token
 * MSSQL
 * EF Core
 * React + TypeScript - client
